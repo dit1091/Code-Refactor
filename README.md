@@ -1,4 +1,4 @@
-# HW1-Code-Refactor
+# Code-Refactor
 1. Header, Body, and Side panel color contract between foreground and background is insufficient - changed  therefore foreground color in stylesheet 
 2. Changed to descriptive Title
 3.Made Header into clickable link that brings view of site back to the top
